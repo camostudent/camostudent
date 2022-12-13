@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @camostudent
+- 👀 I’m interested in learning website development
+- 🌱 I’m currently learning what was said above for bussiness class^
